@@ -1,4 +1,4 @@
-# ola papu OOPSample
+# OPSample
 
 ## Summary
-Sample aplication illustrating Object-Oriented and Functional C# Language Feature
+Sample application illustrating Object-Oriented and Functional C# Language Feature
